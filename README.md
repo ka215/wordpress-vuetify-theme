@@ -1,4 +1,4 @@
-# vuetify-theme
+# Template Of WordPress Vuetify Theme
 
 ## Project setup
 ```
@@ -21,4 +21,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Create WordPress theme with Vuetify](https://ka2.org/create-wordpress-theme-with-vuetify/).
